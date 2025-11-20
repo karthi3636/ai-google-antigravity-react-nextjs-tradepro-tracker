@@ -37,6 +37,9 @@ Deploy your own instance in seconds:
 
 ## 📸 Screenshots
 
+<img width="1873" height="947" alt="image" src="https://github.com/user-attachments/assets/e1f1a74a-7267-4342-be03-1f6d23c9b726" />
+
+
 ### Dashboard View
 - Live cryptocurrency market overview
 - Real-time price updates
@@ -288,3 +291,4 @@ Potential features for future versions:
 **Built with ❤️ using Next.js and React**
 
 **Ready to deploy?** See [DEPLOYMENT_GUIDE.md](./DEPLOYMENT_GUIDE.md) to get started!
+
